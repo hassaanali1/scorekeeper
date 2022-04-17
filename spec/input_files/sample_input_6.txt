@@ -1,0 +1,7 @@
+only junk in here
+this file has no valid inputs
+@#$!!@$
+\n\n\n
+...
+Team One 6,, Other Team 2
+Close To Valid Input 6, But Not Quite! 2

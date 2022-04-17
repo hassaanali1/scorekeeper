@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "scorekeeper"
+
+# Only work on valid files
+ARGV.select! { |file| File.exist?(file) && File.extname(file) == ".txt" }
+
+if ARGV.length > 1
+  puts "Too many arguments"
+  exit
+end
+
+if ARGF.filename != "-" || (!$stdin.tty? && !$stdin.closed?)
+  Scorekeeper.keep_score(ARGF)
+else
+  puts "No input given."
+end

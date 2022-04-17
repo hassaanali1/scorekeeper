@@ -1,0 +1,19 @@
+Matchday 1
+The Winners, 3 pts
+The Losers, 0 pts
+
+Matchday 2
+The Winners, 6 pts
+The Losers, 0 pts
+
+Matchday 3
+The Winners, 9 pts
+The Losers, 0 pts
+
+Matchday 4
+The Winners, 12 pts
+The Losers, 0 pts
+
+Matchday 5
+The Winners, 12 pts
+The Losers, 3 pts

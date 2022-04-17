@@ -1,0 +1,14 @@
+Matchday 1
+Cool Guys, 3 pts
+The Winners, 3 pts
+Other Guys, 0 pts
+
+Matchday 2
+The Winners, 6 pts
+Cool Guys, 3 pts
+The Losers, 3 pts
+
+Matchday 3
+Cool Guys, 6 pts
+The Winners, 6 pts
+The Losers, 3 pts

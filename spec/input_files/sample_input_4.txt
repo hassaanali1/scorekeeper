@@ -1,0 +1,5 @@
+The Winners 1, The Losers 0
+Cool Guys 2, Other Guys 0
+The Winners 1, Other Guys 0
+Cool Guys 0, The Losers 5
+The Winners 2, Cool Guys 3
