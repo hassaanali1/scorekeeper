@@ -5,6 +5,9 @@ scoreboard which is displayed at the end of each match day.
 
 ## Design
 
+<img width="746" alt="Screen Shot 2022-04-17 at 2 06 04 PM" src="https://user-images.githubusercontent.com/5578713/163730448-c5d0b65d-4c39-4af6-9d91-c5048f5b545d.png">
+
+
 This program is set up with 4 main classes:
 
 1) GameManager
