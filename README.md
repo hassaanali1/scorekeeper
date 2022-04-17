@@ -75,5 +75,3 @@ amount of storage which I felt was more trouble than it was worth for this proje
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-TODO: Rubocop formatting
