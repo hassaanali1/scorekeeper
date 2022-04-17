@@ -28,6 +28,7 @@ module Scorekeeper
 
       puts "Matchday #{@day}"
 
+      # Could be optimized by maintaining a sorted list of teams by points
       sorted_points = @points_by_team.sort_by { |k, v| [-v, k] }
       sorted_points[0...3].each do |score|
         team_name = score[0]
